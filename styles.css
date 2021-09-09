@@ -10,6 +10,7 @@ h1 {
     margin-top: inherit;
     padding: 20px;
     border: dotted #386641;
+    border-radius: 15px;
 }
 figure {
     text-align: center;
@@ -21,6 +22,8 @@ h2 {
     font-size: 32px;
     padding: 10px;
     background-color: #A7C957;
+    border: transparent;
+    border-radius: 15px;
 }
 p {
     text-align: center;
