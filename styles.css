@@ -5,9 +5,18 @@ h1 {
     font-family: 'Pacifico', cursive;
     text-align: center;
     color: #BC4749;
+    background-color: #A7C957;
     font-size: 64px;
-    width: auto;
+    margin-top: inherit;
+    padding: 10px;
 }
 figure {
     text-align: center;
 }
+h2 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: #BC4749;
+    font-size: 32px;
+}
+
